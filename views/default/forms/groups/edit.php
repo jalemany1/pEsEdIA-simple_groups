@@ -2,7 +2,7 @@
 /**
  * Group edit form
  *
- * @package ElggGroups
+ * @package Pesedia
  */
 
 /* @var ElggGroup $entity */
